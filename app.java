@@ -15,3 +15,4 @@ public class Sample
 } // End Sample
 
 this is the java code which is used to know the webhook is triggered in jenkins or not automatically
+now we are goung to use the poll scm using cron tab which is scheduled.
