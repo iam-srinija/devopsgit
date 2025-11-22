@@ -15,4 +15,4 @@ public class Sample
 } // End Sample
 
 
-now we are goung to use the poll scm using cron tab which is scheduled.
+
