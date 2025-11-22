@@ -13,3 +13,5 @@ public class Sample
       System.out.println(); // The third line displayed is blank
    } // End main
 } // End Sample
+
+this is the java code which is used to know the webhook is triggered in jenkins or not automatically
